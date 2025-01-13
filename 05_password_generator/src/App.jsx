@@ -43,8 +43,8 @@ passGenerator()
 
   return (
     <div className='flex justify-center mt-[150px] '>
-      <div className='w-[70%] h-[400px] bg-gray-500 rounded-2xl flex flex-col justify-center items-center'>
-      <div className='text-4xl text-center mt-10 font-bold text-lime-500'>Password Generator</div>
+      <div className='w-[70%] h-[400px] bg-pink-200 rounded-2xl flex flex-col justify-center items-center box'>
+      <div className='text-4xl text-center mt-10 font-bold text-[#24d5ff]gi'>Password Generator</div>
       <div className='flex flex-row justify-center items-center mt-11'>
         <input 
         type="text"
@@ -54,7 +54,7 @@ passGenerator()
         readOnly // because no one can write in input field :
         ref={passwordref}
         />
-        <button className='bg-lime-600 h-[50px] w-[100px] rounded rounded-l-none  ' onClick={(copyToClipBord)}>Copy</button>
+        <button className=' button-85 ' onClick={(copyToClipBord)}>Copy</button>
       </div>
 
       <div className=' flex flex-row gap-2 mt-[50px] '>
