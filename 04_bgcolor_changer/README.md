@@ -1,8 +1,10 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# npm run dev 
 
-Currently, two official plugins are available:
+# Background Colors Changer :  🌈
+ 
+<img width="1440" alt="Screenshot 2025-01-12 at 10 38 31 PM" src="https://github.com/user-attachments/assets/aa718e86-4d1d-4971-9863-3308b9d0c771" />
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+<img width="1440" alt="Screenshot 2025-01-12 at 10 38 45 PM" src="https://github.com/user-attachments/assets/3ab9132b-8e97-4fd2-a380-bad80976cc74" />
